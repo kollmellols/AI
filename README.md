@@ -1,4 +1,4 @@
-# 📄 AI CV Parser — Mistral + FastAPI + LangChain + Streamlit
+# 📄 AI CV Parser - Mistral + FastAPI + LangChain + Streamlit
 
 An **AI-powered Resume (CV) Parser** built using **Mistral-Nemo-Instruct**, **FastAPI**, **LangChain**, and **Streamlit**.  
 The system extracts structured information (Name, Email, Skills, Experience, Education) from PDF resumes using a powerful LLM and returns clean JSON output.
@@ -44,4 +44,5 @@ The system extracts structured information (Name, Email, Skills, Experience, Edu
 ## ⭐ Support
 
 If you like this project, don't forget to star ⭐ the repository!
+
 
