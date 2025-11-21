@@ -1,10 +1,5 @@
 # 📄 AI CV Parser — Mistral + FastAPI + LangChain + Streamlit
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-lightblue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.30-orange)
-![LangChain](https://img.shields.io/badge/LangChain-0.1.0-lightgreen)
-
 An **AI-powered Resume (CV) Parser** built using **Mistral-Nemo-Instruct**, **FastAPI**, **LangChain**, and **Streamlit**.  
 The system extracts structured information (Name, Email, Skills, Experience, Education) from PDF resumes using a powerful LLM and returns clean JSON output.
 
@@ -23,7 +18,7 @@ The system extracts structured information (Name, Email, Skills, Experience, Edu
 ---
 
 ## 📂 Project Structure
-
+│
 ├── AI_CV_Parser_API.ipynb      # # Jupyter Notebook containing the backend (FastAPI + LLM + LangChain)
 ├── app.py                      # AI-powered Streamlit app for extracting structured info from uploaded CVs.
 ├── README.md                   # Project documentation
@@ -43,7 +38,7 @@ The system extracts structured information (Name, Email, Skills, Experience, Edu
     "experience": "Data Scientist at OpenAI (2020–2023)"
   }
 }
-
+```
 ---
 
 ## 🖥️ Streamlit App
