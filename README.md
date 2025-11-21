@@ -18,12 +18,12 @@ The system extracts structured information (Name, Email, Skills, Experience, Edu
 ---
 
 ## 📂 Project Structure
-│
-├── AI_CV_Parser_API.ipynb      # # Jupyter Notebook containing the backend (FastAPI + LLM + LangChain)
-├── app.py                      # AI-powered Streamlit app for extracting structured info from uploaded CVs.
-├── README.md                   # Project documentation
-├── demo.mp4                    # Video demo of the system in action             
-└── assets                      # Stores UI and output screenshots for the project
+
+AI_CV_Parser_API.ipynb      # Jupyter Notebook containing the backend (FastAPI + LLM + LangChain)
+app.py                      # Streamlit app for uploading CVs and displaying parsed JSON
+README.md                   # Project documentation
+demo.mp4                    # Video demo of the system in action             
+assets/                     # Stores UI and output screenshots for the project
 
 ---
 
